@@ -1,0 +1,11 @@
+{
+  "name": "vars",
+  "repository": "git://github.com//spin/vars/.git",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component-stylus": "~1.1.3"
+  },
+  "devDependencies": {},
+  "license": "MIT"
+}

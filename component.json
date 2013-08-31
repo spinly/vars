@@ -1,0 +1,12 @@
+{
+  "name": "vars",
+  "repo": "spin/vars",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "vars.styl"
+  ]
+}
