@@ -1,1 +1,1 @@
-module.exports = require('component-stylus');
+var stylusPlugin = require("component-stylus-plugin");stylusPlugin.paths = ["components"];module.exports = stylusPlugin;

@@ -1,5 +1,5 @@
 
-build: components node_modules   vars.styl
+build: components node_modules index.styl
 	@component build --dev --use stylus
 
 node_modules: package.json

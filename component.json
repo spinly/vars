@@ -7,6 +7,6 @@
   "development": {},
   "license": "MIT",
   "styles": [
-    "vars.styl"
+    "index.styl"
   ]
 }
